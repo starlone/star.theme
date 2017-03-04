@@ -2,7 +2,7 @@
   "name": "star.theme",
   "homepage": "https://github.com/starlone/star.theme",
   "description": "",
-  "main": "style.css",
+  "main": "star.theme.css",
   "license": "Apache",
   "ignore": [
     "**/.*",
